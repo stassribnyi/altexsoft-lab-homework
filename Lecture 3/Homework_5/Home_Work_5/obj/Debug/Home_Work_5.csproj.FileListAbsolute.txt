@@ -1,0 +1,6 @@
+c:\users\silent\documents\visual studio 2013\Projects\Home_Work_5\Home_Work_5\bin\Debug\Home_Work_5.exe.config
+c:\users\silent\documents\visual studio 2013\Projects\Home_Work_5\Home_Work_5\bin\Debug\Home_Work_5.exe
+c:\users\silent\documents\visual studio 2013\Projects\Home_Work_5\Home_Work_5\bin\Debug\Home_Work_5.pdb
+c:\users\silent\documents\visual studio 2013\Projects\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.csprojResolveAssemblyReference.cache
+c:\users\silent\documents\visual studio 2013\Projects\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.exe
+c:\users\silent\documents\visual studio 2013\Projects\Home_Work_5\Home_Work_5\obj\Debug\Home_Work_5.pdb

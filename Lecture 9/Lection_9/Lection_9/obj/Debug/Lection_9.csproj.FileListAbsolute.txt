@@ -1,0 +1,6 @@
+c:\users\stas\documents\visual studio 2013\Projects\Lection_9\Lection_9\bin\Debug\Lection_9.exe.config
+c:\users\stas\documents\visual studio 2013\Projects\Lection_9\Lection_9\obj\Debug\Lection_9.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2013\Projects\Lection_9\Lection_9\bin\Debug\Lection_9.exe
+c:\users\stas\documents\visual studio 2013\Projects\Lection_9\Lection_9\bin\Debug\Lection_9.pdb
+c:\users\stas\documents\visual studio 2013\Projects\Lection_9\Lection_9\obj\Debug\Lection_9.exe
+c:\users\stas\documents\visual studio 2013\Projects\Lection_9\Lection_9\obj\Debug\Lection_9.pdb

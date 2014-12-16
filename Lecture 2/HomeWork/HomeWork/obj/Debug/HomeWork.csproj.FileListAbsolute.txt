@@ -1,0 +1,9 @@
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
+E:\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+E:\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+E:\HomeWork\HomeWork\obj\Debug\HomeWork.pdb

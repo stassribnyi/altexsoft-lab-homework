@@ -1,0 +1,6 @@
+c:\users\stas\documents\visual studio 2013\Projects\Lection10\Lection10\bin\Debug\Lection10.exe.config
+c:\users\stas\documents\visual studio 2013\Projects\Lection10\Lection10\bin\Debug\Lection10.exe
+c:\users\stas\documents\visual studio 2013\Projects\Lection10\Lection10\bin\Debug\Lection10.pdb
+c:\users\stas\documents\visual studio 2013\Projects\Lection10\Lection10\obj\Debug\Lection10.csprojResolveAssemblyReference.cache
+c:\users\stas\documents\visual studio 2013\Projects\Lection10\Lection10\obj\Debug\Lection10.exe
+c:\users\stas\documents\visual studio 2013\Projects\Lection10\Lection10\obj\Debug\Lection10.pdb

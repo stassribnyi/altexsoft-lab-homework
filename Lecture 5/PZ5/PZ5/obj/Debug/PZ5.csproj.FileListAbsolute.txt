@@ -1,0 +1,15 @@
+c:\users\silent\documents\visual studio 2013\Projects\PZ5\PZ5\bin\Debug\PZ5.exe.config
+c:\users\silent\documents\visual studio 2013\Projects\PZ5\PZ5\bin\Debug\PZ5.exe
+c:\users\silent\documents\visual studio 2013\Projects\PZ5\PZ5\bin\Debug\PZ5.pdb
+c:\users\silent\documents\visual studio 2013\Projects\PZ5\PZ5\obj\Debug\PZ5.csprojResolveAssemblyReference.cache
+c:\users\silent\documents\visual studio 2013\Projects\PZ5\PZ5\obj\Debug\PZ5.exe
+c:\users\silent\documents\visual studio 2013\Projects\PZ5\PZ5\obj\Debug\PZ5.pdb
+E:\Kurs\HomeWork\Lecture 5  In Progress\PZ5\PZ5\bin\Debug\PZ5.exe.config
+E:\Kurs\HomeWork\Lecture 5  In Progress\PZ5\PZ5\obj\Debug\PZ5.exe
+E:\Kurs\HomeWork\Lecture 5  In Progress\PZ5\PZ5\obj\Debug\PZ5.pdb
+F:\Kurs\HomeWork\Lecture 5  In Progress\PZ5\PZ5\bin\Debug\PZ5.exe.config
+F:\Kurs\HomeWork\Lecture 5  In Progress\PZ5\PZ5\obj\Debug\PZ5.exe
+F:\Kurs\HomeWork\Lecture 5  In Progress\PZ5\PZ5\obj\Debug\PZ5.pdb
+G:\Kurs\HomeWork\Lecture 5\PZ5\PZ5\bin\Debug\PZ5.exe.config
+G:\Kurs\HomeWork\Lecture 5\PZ5\PZ5\obj\Debug\PZ5.exe
+G:\Kurs\HomeWork\Lecture 5\PZ5\PZ5\obj\Debug\PZ5.pdb

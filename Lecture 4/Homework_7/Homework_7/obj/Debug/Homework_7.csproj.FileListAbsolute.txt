@@ -1,0 +1,12 @@
+c:\users\silent\documents\visual studio 2013\Projects\Homework_7\Homework_7\bin\Debug\Homework_7.exe.config
+c:\users\silent\documents\visual studio 2013\Projects\Homework_7\Homework_7\obj\Debug\Homework_7.csprojResolveAssemblyReference.cache
+c:\users\silent\documents\visual studio 2013\Projects\Homework_7\Homework_7\bin\Debug\Homework_7.exe
+c:\users\silent\documents\visual studio 2013\Projects\Homework_7\Homework_7\bin\Debug\Homework_7.pdb
+c:\users\silent\documents\visual studio 2013\Projects\Homework_7\Homework_7\obj\Debug\Homework_7.exe
+c:\users\silent\documents\visual studio 2013\Projects\Homework_7\Homework_7\obj\Debug\Homework_7.pdb
+C:\Users\Silent\Desktop\HomeWork\Lecture 4\Homework_7\Homework_7\bin\Debug\Homework_7.exe.config
+C:\Users\Silent\Desktop\HomeWork\Lecture 4\Homework_7\Homework_7\obj\Debug\Homework_7.exe
+C:\Users\Silent\Desktop\HomeWork\Lecture 4\Homework_7\Homework_7\obj\Debug\Homework_7.pdb
+E:\Kurs\HomeWork\Lecture 4\Homework_7\Homework_7\bin\Debug\Homework_7.exe.config
+E:\Kurs\HomeWork\Lecture 4\Homework_7\Homework_7\obj\Debug\Homework_7.exe
+E:\Kurs\HomeWork\Lecture 4\Homework_7\Homework_7\obj\Debug\Homework_7.pdb

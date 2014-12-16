@@ -1,0 +1,9 @@
+c:\users\silent\documents\visual studio 2013\Projects\Lecture7\Lecture7\bin\Debug\Lecture7.exe.config
+C:\Users\Silent\Documents\Visual Studio 2013\Projects\Lecture7\Lecture7\bin\Debug\Lecture7.exe
+C:\Users\Silent\Documents\Visual Studio 2013\Projects\Lecture7\Lecture7\bin\Debug\Lecture7.pdb
+C:\Users\Silent\Documents\Visual Studio 2013\Projects\Lecture7\Lecture7\obj\Debug\Lecture7.csprojResolveAssemblyReference.cache
+C:\Users\Silent\Documents\Visual Studio 2013\Projects\Lecture7\Lecture7\obj\Debug\Lecture7.exe
+C:\Users\Silent\Documents\Visual Studio 2013\Projects\Lecture7\Lecture7\obj\Debug\Lecture7.pdb
+G:\Kurs\HomeWork\Lecture 7\Lecture7\Lecture7\bin\Debug\Lecture7.exe.config
+G:\Kurs\HomeWork\Lecture 7\Lecture7\Lecture7\obj\Debug\Lecture7.exe
+G:\Kurs\HomeWork\Lecture 7\Lecture7\Lecture7\obj\Debug\Lecture7.pdb

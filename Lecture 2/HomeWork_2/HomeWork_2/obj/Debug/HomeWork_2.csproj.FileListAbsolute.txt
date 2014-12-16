@@ -1,0 +1,12 @@
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.exe.config
+c:\users\silent\documents\visual studio 2012\Projects\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csprojResolveAssemblyReference.cache
+C:\Users\Silent\Documents\Visual Studio 2012\Projects\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.exe
+C:\Users\Silent\Documents\Visual Studio 2012\Projects\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.pdb
+C:\Users\Silent\Documents\Visual Studio 2012\Projects\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.exe
+C:\Users\Silent\Documents\Visual Studio 2012\Projects\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.pdb
+E:\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.exe.config
+E:\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.exe
+E:\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.pdb
+E:\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.exe
+E:\HomeWork_2\HomeWork_2\bin\Debug\HomeWork_2.pdb
+E:\HomeWork_2\HomeWork_2\obj\Debug\HomeWork_2.csprojResolveAssemblyReference.cache

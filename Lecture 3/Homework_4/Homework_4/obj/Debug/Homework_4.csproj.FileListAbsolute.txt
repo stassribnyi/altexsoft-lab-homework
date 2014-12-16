@@ -1,0 +1,10 @@
+c:\users\silent\documents\visual studio 2012\Projects\Homework_4\Homework_4\bin\Debug\Homework_4.exe.config
+c:\users\silent\documents\visual studio 2012\Projects\Homework_4\Homework_4\bin\Debug\Homework_4.exe
+c:\users\silent\documents\visual studio 2012\Projects\Homework_4\Homework_4\bin\Debug\Homework_4.pdb
+c:\users\silent\documents\visual studio 2012\Projects\Homework_4\Homework_4\obj\Debug\Homework_4.exe
+c:\users\silent\documents\visual studio 2012\Projects\Homework_4\Homework_4\obj\Debug\Homework_4.pdb
+E:\Homework_4\Homework_4\bin\Debug\Homework_4.exe.config
+E:\Homework_4\Homework_4\obj\Debug\Homework_4.exe
+E:\Homework_4\Homework_4\obj\Debug\Homework_4.pdb
+E:\Homework_4\Homework_4\bin\Debug\Homework_4.exe
+E:\Homework_4\Homework_4\bin\Debug\Homework_4.pdb

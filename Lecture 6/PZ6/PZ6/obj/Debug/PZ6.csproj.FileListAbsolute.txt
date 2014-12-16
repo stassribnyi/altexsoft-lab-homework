@@ -1,0 +1,9 @@
+c:\users\silent\documents\visual studio 2013\Projects\PZ6\PZ6\bin\Debug\PZ6.exe.config
+c:\users\silent\documents\visual studio 2013\Projects\PZ6\PZ6\bin\Debug\PZ6.exe
+c:\users\silent\documents\visual studio 2013\Projects\PZ6\PZ6\bin\Debug\PZ6.pdb
+c:\users\silent\documents\visual studio 2013\Projects\PZ6\PZ6\obj\Debug\PZ6.csprojResolveAssemblyReference.cache
+c:\users\silent\documents\visual studio 2013\Projects\PZ6\PZ6\obj\Debug\PZ6.exe
+c:\users\silent\documents\visual studio 2013\Projects\PZ6\PZ6\obj\Debug\PZ6.pdb
+F:\Kurs\HomeWork\Lecture 6\PZ6\PZ6\bin\Debug\PZ6.exe.config
+F:\Kurs\HomeWork\Lecture 6\PZ6\PZ6\obj\Debug\PZ6.exe
+F:\Kurs\HomeWork\Lecture 6\PZ6\PZ6\obj\Debug\PZ6.pdb
